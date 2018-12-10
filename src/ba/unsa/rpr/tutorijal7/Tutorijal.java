@@ -1,4 +1,4 @@
-package etf.unsa.ba;
+package ba.unsa.rpr.tutorijal7;
 
 
 import org.w3c.dom.Document;
@@ -11,9 +11,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.beans.XMLEncoder;
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 public class Tutorijal {
     public static void main(String[] args) {

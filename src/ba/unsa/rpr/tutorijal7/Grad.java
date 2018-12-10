@@ -1,4 +1,4 @@
-package etf.unsa.ba;
+package ba.unsa.rpr.tutorijal7;
 
 import java.io.Serializable;
 import java.util.Arrays;
