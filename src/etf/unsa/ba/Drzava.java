@@ -10,6 +10,12 @@ public class Drzava implements Serializable {
     private Grad glavniGrad;
 
     public Drzava() {
+        this.naziv = null;
+        this.brojStanovnika = 0;
+        this.povrsina = 0;
+        this.jedinicaPovrsine = null;
+        this.glavniGrad = null;
+
     }
 
     public Drzava(String naziv, int stanovnika, double povrsina, String jedinica, Grad glavniGrad) {
