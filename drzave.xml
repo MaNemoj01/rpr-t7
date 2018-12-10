@@ -15,4 +15,12 @@
         <povrsina jedinica="km2">100000</povrsina>
         <moneta naziv="KN" />
     </drzava>
+    <drzava stanovnika="1200000">
+        <naziv>United Kingdom</naziv>
+        <glavnigrad stanovnika="600000">
+            <naziv>London</naziv>
+        </glavnigrad>
+        <povrsina jedinica="km2">400000</povrsina>
+        <moneta naziv="Pounds" />
+    </drzava>
 </drzave>
